@@ -1,0 +1,27 @@
+
+$black: #000000;
+$white: #FFFFFF;
+$lightGray: #D3D3D3;
+$darkGray: #A9A9A9;
+$red: #7C0A02;
+
+body{
+    font-family:;
+    font-size: 18px;
+    color: $black;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@mixin translateY($e) {
+    -webkit-trasform: translateY($e);
+        -moz-trasform: translateY($e);
+            -trasform: translateY($e);
+}
+
+@mixin translation($e) {
+    -webkit-trasform: translation($e);
+        -moz-trasform: translation($e);
+            -trasform: translation($e);
+}
