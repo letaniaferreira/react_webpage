@@ -1,12 +1,18 @@
 
+/*
+Vars
+ */
+
 $black: #000000;
 $white: #FFFFFF;
 $lightGray: #D3D3D3;
 $darkGray: #A9A9A9;
 $red: #7C0A02;
 
+
+
 body{
-    font-family:;
+    font-family: Roboto;
     font-size: 18px;
     color: $black;
     font-weight: 400;
@@ -14,13 +20,34 @@ body{
 }
 
 
+a {
+    text-decoration: none;
+    @mixin transition(.4s ease-in-out);
+    cursor: pointer;
+}
+
+
+&:hover {
+    color: $red;
+    @mixin transition(.4s ease-in-out);
+}
+
+.container-fluid {
+    line-height: 24px;
+}
+
+
+/*
+Mixins
+ */
+
 @mixin translateY($e) {
     -webkit-trasform: translateY($e);
         -moz-trasform: translateY($e);
             -trasform: translateY($e);
 }
 
-@mixin translation($e) {
+@mixin transition($e) {
     -webkit-trasform: translation($e);
         -moz-trasform: translation($e);
             -trasform: translation($e);
