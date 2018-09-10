@@ -6,7 +6,13 @@ class Homepage extends Component {
     return (
       <div className="container-fluid">
 
-        Home Page content here
+        <h1>
+          Letania Ferreira, Ph.D
+        </h1>
+
+        <p>
+          Bridging the gap between software and communication
+        </p>
 
       </div>
     );

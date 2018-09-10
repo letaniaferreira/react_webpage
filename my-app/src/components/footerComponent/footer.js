@@ -6,7 +6,10 @@ class Footer extends Component {
     return (
       <footer>
 
-        footer
+        add github and LinkedIn
+
+
+        @ 2018 Letania Ferreira
 
       </footer>
     );

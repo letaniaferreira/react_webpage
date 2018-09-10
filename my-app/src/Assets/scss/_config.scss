@@ -10,6 +10,21 @@ $darkGray: #A9A9A9;
 $red: #7C0A02;
 
 
+/*
+Mixins
+ */
+
+@mixin translateY($e) {
+    -webkit-transform: translateY($e);
+        -moz-transform: translateY($e);
+            -transform: translateY($e);
+}
+
+@mixin transition($e) {
+    -webkit-transform: transition($e);
+        -moz-transform: transition($e);
+            -transform: transition($e);
+}
 
 body{
     font-family: Roboto;
@@ -22,33 +37,17 @@ body{
 
 a {
     text-decoration: none;
-    @mixin transition(.4s ease-in-out);
+    @include transition(.4s ease-in-out);
     cursor: pointer;
-}
 
-
-&:hover {
+    &:hover {
     color: $red;
-    @mixin transition(.4s ease-in-out);
+    @include transition(.4s ease-in-out);
+    }
 }
+
 
 .container-fluid {
     line-height: 24px;
 }
 
-
-/*
-Mixins
- */
-
-@mixin translateY($e) {
-    -webkit-trasform: translateY($e);
-        -moz-trasform: translateY($e);
-            -trasform: translateY($e);
-}
-
-@mixin transition($e) {
-    -webkit-trasform: translation($e);
-        -moz-trasform: translation($e);
-            -trasform: translation($e);
-}
