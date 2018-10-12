@@ -18,6 +18,14 @@ class Professional extends Component {
             Database & Industry Tools | PostgreSQL, Git, GitHub, Command Line, Docker
             Tools/Software | Praat, SPSS
             Natural Languages | Portuguese: Native, English: Near native, Spanish: Near native, French: Fluent, Italian: Conversational
+        
+        
+            Main Projects
+
+            Language Learning – Designed and programmed command-line Python app using Git/GitHub
+
+            Dining Hero - Developed food recommendation web app, integrated with Google Places API and Twilio API, utilized 3rd party libraries, incorporated Postgres ORM to query database, applied test-driven development
+
         </p>
 
       </div>
