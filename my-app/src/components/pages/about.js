@@ -9,9 +9,9 @@ class About extends Component {
         <h1>
           About Me
         </h1>
-
+        <br/>
         <div>My name is Letania Ferreira and I am based in San Francisco.</div>
-          <br/>
+        <br/>
         <div>I love puzzles, languages, traveling, eating and cooking.</div>
         <br/>
         <div>In November 2017 I graduated from a women’s software engineering school, where I built Dining Hero and Language Learning.<br/>
