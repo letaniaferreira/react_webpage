@@ -29,7 +29,7 @@ class Professional extends Component {
             <br/>
             <br/>
 
-            <h4>Work Experience</h4>
+            <h4>Experience</h4>
 
             <h5>Intern, Texas Advanced Computing Center, the University of Texas at Austin</h5>
             
@@ -40,7 +40,11 @@ class Professional extends Component {
             - Created asynchronous Celery tasks for long-running processes<br/>
             - Refactored codebase and increased test coverage<br/>
             <br/>
-
+            <h4><b>Software Engineering</b>, Hackbright Academy, San Francisco, CA
+            <br/>
+            -Language Learning - Language game that helps user to learn basic expressions from different semantic groups of a language by guessing translations.
+            <br/>
+            -Dining Hero - Food recommendation app that allows advanced search for a better dining experience, used Google Places and Yelp Open Dataset (4,700,000 reviews / 156,000 businesses). Tried to implement restaurant classifier using the MonkeyLearn Platform.
             <br/>
             <br/>
             <b>Assistant professor</b>, <a href="http://www.ufrpe.br/">Universidade Federal Rural de Pernambuco</a> (Cabo, Brazil)     <br/> 2015 - 2017 <br/>
@@ -83,9 +87,7 @@ class Professional extends Component {
            
             <h3>Education</h3>
            
-            <h4><b>Software Engineering</b>, Hackbright Academy, San Francisco, CA
-            <br/>
-            <br/>
+            
             <b>Ph. D. Romance Linguistics</b> (focus Acoustic Phonetics), The University of Illinois at Urbana-Champaign   
             <br/>
             <br/>
