@@ -25,23 +25,22 @@ class Professional extends Component {
 
             <h5>Intern, Texas Advanced Computing Center, the University of Texas at Austin</h5>
             
-            - Built and tested AngularJS and Django based web applications to allow research scientists to send workloads to supercomputers and validate/view results,<br/>
+            <h6>Built and tested AngularJS and Django based web applications to allow research scientists to send workloads to supercomputers and validate/view results</h6><br/>
             - Added new features and fixed bugs<br/>
             - Tracked and communicated about user stories / bugs with JIRA<br/>
             - Used Docker / Docker Compose for consistency / sanitization of environments<br/>
             - Created asynchronous Celery tasks for long-running processes<br/>
             - Refactored codebase and increased test coverage<br/>
-            Tack stack: Python, Django, JavaScript, AngularJS, JIRA, Docker<br/>
+            <h6><b>Tech stack: Python, Django, JavaScript, AngularJS, JIRA, Docker</b></h6><br/>
             <br/>
-            <h5>Software Engineering Fellow, Hackbright Academy, San Francisco, CA</h5>
+            <h5>Software Engineering Fellow, Hackbright Academy, San Francisco</h5>
             Hackbright is a full-time, 12 weeks Software Engineering bootcamp focusing on Python, Flask, Postgress, Data Structures<br/>
             <br/>
             -Designed and built a command-line gamified Python application that helps users to learn basic expressions from different semantic groups of a language by guessing translations.<br/>
-            Tack stack: Python, command-line, GitHub<br/>
-            <br/>
+            <h6><b>Tech stack: Python, command-line</b></h6><br/>
             -Built a web app in Python/Flask that recommends restaurants based on location, food type or other advanced preferences using data from more than 4,700,000 reviews  and 156,000 businesses from the Yelp Open Dataset, Google Places API and Twilio API, utilized 3rd party libraries, incorporated Postgres ORM to query database, applied test-driven development.<br/>
             -Implemented prediction of restaurant classifier using the MonkeyLearn Platform.<br/>
-            Tack stack: Python, Flask, SQLAlchemy, PostgreSQL, CSS, HTML<br/>
+            <h6><b>Tech stack: Python, Flask, SQLAlchemy, PostgreSQL, CSS, HTML</b></h6><br/>
             <br/>
             <br/>
             <b>Assistant professor</b>, <a href="http://www.ufrpe.br/">Universidade Federal Rural de Pernambuco</a> (Cabo, Brazil)     <br/> 2015 - 2017 <br/>
