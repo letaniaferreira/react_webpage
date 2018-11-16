@@ -19,14 +19,6 @@ class Professional extends Component {
             <div>Tools/Software | Praat, SPSS</div>
             <div>Natural Languages | Portuguese: Native, English: Near native, Spanish: Near native, French: Fluent, Italian: Conversational</div>
             <br/>
-
-            <h4>Main Projects</h4>
-
-            Language Learning – Designed and programmed command-line Python app using Git/GitHub
-            <br/>
-
-            Dining Hero - Developed food recommendation web app, integrated with Google Places API and Twilio API, utilized 3rd party libraries, incorporated Postgres ORM to query database, applied test-driven development
-            <br/>
             <br/>
 
             <h4>Experience</h4>
@@ -39,12 +31,17 @@ class Professional extends Component {
             - Used Docker / Docker Compose for consistency / sanitization of environments<br/>
             - Created asynchronous Celery tasks for long-running processes<br/>
             - Refactored codebase and increased test coverage<br/>
+            Tack stack: Python, Django, JavaScript, AngularJS, JIRA, Docker<br/>
             <br/>
-            <h4><b>Software Engineering</b>, Hackbright Academy, San Francisco, CA
+            <h5>Software Engineering Fellow, Hackbright Academy, San Francisco, CA</h5>
+            Hackbright is a full-time, 12 weeks Software Engineering bootcamp focusing on Python, Flask, Postgress, Data Structures<br/>
             <br/>
-            -Language Learning - Language game that helps user to learn basic expressions from different semantic groups of a language by guessing translations.
+            -Designed and built a command-line gamified Python application that helps users to learn basic expressions from different semantic groups of a language by guessing translations.<br/>
+            Tack stack: Python, command-line, GitHub<br/>
             <br/>
-            -Dining Hero - Food recommendation app that allows advanced search for a better dining experience, used Google Places and Yelp Open Dataset (4,700,000 reviews / 156,000 businesses). Tried to implement restaurant classifier using the MonkeyLearn Platform.
+            -Built a web app in Python/Flask that recommends restaurants based on location, food type or other advanced preferences using data from more than 4,700,000 reviews  and 156,000 businesses from the Yelp Open Dataset, Google Places API and Twilio API, utilized 3rd party libraries, incorporated Postgres ORM to query database, applied test-driven development.<br/>
+            -Implemented prediction of restaurant classifier using the MonkeyLearn Platform.<br/>
+            Tack stack: Python, Flask, SQLAlchemy, PostgreSQL, CSS, HTML<br/>
             <br/>
             <br/>
             <b>Assistant professor</b>, <a href="http://www.ufrpe.br/">Universidade Federal Rural de Pernambuco</a> (Cabo, Brazil)     <br/> 2015 - 2017 <br/>
@@ -94,7 +91,7 @@ class Professional extends Component {
             <b>MA in Romance Languages</b> The University of Georgia at Athens
             <br/>
             <br/>
-            <b> B. A. in Portuguese and English</b>, Universidade Federal de Pernambuco – Recife, Brazil</h4>
+            <b> B. A. in Portuguese and English</b>, Universidade Federal de Pernambuco – Recife, Brazil
             <br/>
            
 
